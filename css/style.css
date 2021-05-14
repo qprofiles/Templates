@@ -12623,10 +12623,12 @@ table.fc-header{
 	}
 
 .alerts{
-    padding:15px;
+    padding: 15px;
     background-color: #007bff;
     margin-bottom: 10px;
     color:#fff;
+    width: 100%;
+    text-decoration: none;
 }
 
 .alerts-heading{
@@ -12634,8 +12636,12 @@ table.fc-header{
     color:#fb236a;
 }
 
-.alerts a:hover{
-    padding:15px;
+.wd{
+    padding: 15px;
+}
+
+
+.wd .active, .wd > a:hover{
     background-color: #6610f2;
     color:#fff;
 }
