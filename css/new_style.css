@@ -1,0 +1,33 @@
+.res-search2 {
+    float: left;
+    width: 100%;
+    margin-top: 40px;
+    background: #eaeaea;
+    position: relative;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    border-radius: 8px;
+
+}
+.res-search2 input {
+    float: left;
+    width: 100%;
+    margin: 0;
+    background: none;
+    font-size: 13px;
+    color: #040e2b;
+    padding: 18px 30px;
+    padding-right: 30px;
+    padding-right: 80px;
+}
+.res-search2 button {
+    position: absolute;
+    right: 0;
+    background: none;
+    padding: 0;
+    color: #62697f;
+    font-size: 25px;
+    padding: 11px 20px;
+}
